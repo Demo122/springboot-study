@@ -8,6 +8,7 @@ class Springboot04SsmApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("springboot");
     }
 
 }
